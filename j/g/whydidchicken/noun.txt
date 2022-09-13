@@ -1,0 +1,327 @@
+﻿aardvark
+absent-minded professor
+accountant
+actor
+airplane
+Alan Moon
+alarm clock
+Aldie
+alien
+alligator
+angel
+ant
+apple pie
+armadillo
+arsonist
+astronaut
+author
+axe murderer
+baby
+baker
+ballerina
+banana
+barber
+bartender
+bat
+beaver
+beer
+beggar
+boa constrictor
+board game
+board gamer
+bomb
+boxer
+brain surgeon
+bride
+bubble gum
+bulldozer
+bumblebee
+bus
+bus driver
+butcher
+butter
+butterfly
+camel
+camera
+carpenter
+cartoon character
+cat
+catapult
+caterpillar
+catfish
+chameleon
+cheerleader
+cheese
+cheetah
+chicken
+chihuahua
+chimpanzee
+chocolate
+cigar
+cloud
+clown
+cockroach
+coffee
+college student
+computer
+computer geek
+con artist
+construction worker
+cow
+cowboy
+crab
+cricket
+crocodile
+deer
+dentist
+Derk
+diamond
+diaper
+dinosaur
+disc jockey
+doctor
+dog catcher
+dolphin
+Dr. Seuss
+dragon
+drunk
+duck
+duck-billed platypus
+eagle
+egg
+Einstein
+electric eel
+electric guitar
+elephant
+Elvis Presley
+English teacher
+eyeball
+fairytale princess
+farmer
+fart
+fire
+firefighter
+firefly
+fisherman
+flat tire
+flower
+fly
+football player
+fox
+frog
+frying pan
+gambler
+garbage collector
+gargoyle
+George Bush
+gerbil
+ghost
+gingerbread man
+giraffe
+glue
+goat
+God
+goldfish
+goose
+gorilla
+grave digger
+grizzly bear
+groom
+hamburger
+hammer
+hawk
+hermit
+hippopotamus
+hippy
+hockey player
+horse
+hot poker
+hunter
+hyena
+ice cream man
+insurance salesman
+Internet
+jack-o-lantern
+jellyfish
+Jesus
+jogger
+judge
+kangaroo
+king
+kitten
+knight
+koala bear
+ladybug
+lawyer
+librarian
+light bulb
+lion
+lobster
+Loch Ness Monster
+lumberjack
+lunatic
+mad scientist
+maggot
+magician
+magnet
+maid
+marathon runner
+Mars
+marshmallow
+mechanic
+mermaid
+millionaire
+mime
+minister
+monkey
+mosquito
+moth
+mountain
+mouse
+mushroom
+neighborhood bully
+ninja
+nose
+nurse
+octopus
+old man
+opossum
+ostrich
+otter
+owl
+pair of combat boots
+pair of underpants
+parrot
+penguin
+pickup truck
+pig
+pigeon
+pilot
+pimple
+piranha
+pirate
+pistol
+pitchfork
+pizza
+plumber
+pocket watch
+polar bear
+police officer
+politician
+poodle
+poop
+popcorn
+porcupine
+postal worker
+potato
+president
+priest
+prostitute
+psychiatrist
+psychic
+puppy
+puzzle
+queen
+rabbi
+rabbit
+raccoon
+radio
+rat
+rattlesnake
+refrigerator
+Reiner Knizia
+reporter
+rhinoceros
+road kill
+robot
+rock
+rock star
+rocket
+rocket scientist
+sailor
+Santa Claus
+scorpion
+screwdriver
+sea horse
+seal
+secretary
+seer
+Shakespeare
+shark
+sheep
+skeleton
+skunk
+skyscraper
+slot machine
+slug
+small elf
+snail
+snowball
+snowman
+soldier
+spam
+spider
+sports car
+spy
+squid
+squirrel
+starfish
+stripper
+stunt double
+submarine
+superhero
+supermodel
+swimmer
+tapeworm
+tax collector
+taxi driver
+teapot
+teddy bear
+teenager
+telemarketer
+telephone
+televangelist
+television
+termite
+the Devil
+the Moon
+the Pope
+the sun
+thief
+tiger
+toad
+tongue
+traffic light
+train
+tree
+trekker
+turkey
+turtle
+UFO (Unidentified Flying Object)
+undertaker
+universe
+used car salesman
+vaccuum cleaner
+vampire
+vegetarian
+Venus
+video game
+village idiot
+villager
+voodoo doll
+vulture
+waitress
+walrus
+weatherman
+werewolf
+whale
+wimp
+wind
+witch
+wolf
+woodpecker
+woolly mammoth
+worm
+zebra
+zombie
+zoo keeper
